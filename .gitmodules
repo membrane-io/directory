@@ -16,3 +16,6 @@
 [submodule "vercel"]
 	path = vercel
 	url = https://github.com/juancampa/membrane-driver-vercel.git
+[submodule "twitter"]
+	path = twitter
+	url = https://github.com/juancampa/membrane-driver-twitter.git
