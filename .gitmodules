@@ -28,3 +28,6 @@
 [submodule "drawer"]
 	path = drawer
 	url = https://github.com/juancampa/membrane-drawer-program.git
+[submodule "airtable"]
+	path = airtable
+	url = https://github.com/juancampa/membrane-driver-airtable.git
