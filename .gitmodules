@@ -31,3 +31,6 @@
 [submodule "airtable"]
 	path = airtable
 	url = https://github.com/juancampa/membrane-driver-airtable.git
+[submodule "slack"]
+	path = slack
+	url = https://github.com/juancampa/membrane-driver-slack.git
