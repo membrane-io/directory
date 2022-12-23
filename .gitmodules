@@ -4,3 +4,6 @@
 [submodule "hn"]
 	path = hn
 	url = https://github.com/juancampa/membrane-driver-hn.git
+[submodule "google-docs"]
+	path = google-docs
+	url = https://github.com/juancampa/membrane-driver-google-docs.git
