@@ -13,3 +13,6 @@
 [submodule "notion"]
 	path = notion
 	url = https://github.com/juancampa/membrane-driver-notion.git
+[submodule "vercel"]
+	path = vercel
+	url = https://github.com/juancampa/membrane-driver-vercel.git
