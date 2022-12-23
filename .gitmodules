@@ -10,3 +10,6 @@
 [submodule "google-calendar"]
 	path = google-calendar
 	url = https://github.com/juancampa/membrane-driver-google-calendar.git
+[submodule "notion"]
+	path = notion
+	url = https://github.com/juancampa/membrane-driver-notion.git
