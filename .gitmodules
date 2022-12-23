@@ -1,3 +1,6 @@
 [submodule "github"]
 	path = github
 	url = https://github.com/juancampa/membrane-driver-github.git
+[submodule "hn"]
+	path = hn
+	url = https://github.com/juancampa/membrane-driver-hn.git
