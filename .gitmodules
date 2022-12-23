@@ -19,3 +19,12 @@
 [submodule "twitter"]
 	path = twitter
 	url = https://github.com/juancampa/membrane-driver-twitter.git
+[submodule "user"]
+	path = user
+	url = https://github.com/juancampa/membrane-user-program.git
+[submodule "http"]
+	path = http
+	url = https://github.com/juancampa/membrane-http-program.git
+[submodule "drawer"]
+	path = drawer
+	url = https://github.com/juancampa/membrane-drawer-program.git
