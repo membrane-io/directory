@@ -7,3 +7,6 @@
 [submodule "google-docs"]
 	path = google-docs
 	url = https://github.com/juancampa/membrane-driver-google-docs.git
+[submodule "google-calendar"]
+	path = google-calendar
+	url = https://github.com/juancampa/membrane-driver-google-calendar.git
