@@ -37,3 +37,6 @@
 [submodule "todo"]
 	path = todo
 	url = https://github.com/aranajhonny/todo.git
+[submodule "html"]
+	path = html
+	url = https://github.com/aranajhonny/html.git
