@@ -37,3 +37,6 @@
 [submodule "html"]
 	path = html
 	url = https://github.com/aranajhonny/html.git
+[submodule "airtable"]
+	path = airtable
+	url = https://github.com/juancampa/membrane-driver-airtable.git
