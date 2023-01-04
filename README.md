@@ -7,19 +7,19 @@ https://img.shields.io/badge/STATUS-Ready-brightgreen
 https://img.shields.io/badge/STATUS-Unusable-lightgrey
 -->
 
-| Name | Status | 
-| --- | --- |
-| Airtable | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> |
-| Drawer | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> |
-| Github | <img src="https://img.shields.io/badge/STATUS-In%20progress-yellow"> |
-| Google Calendar | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> |
-| Google Docs | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> |
-| Hacker News | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">|
-| Html | <img src="https://img.shields.io/badge/STATUS-In%20progress-yellow">|
-| Http | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">|
-| Notion | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">|
-| Slack | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">|
-| TODO | <img src="https://img.shields.io/badge/STATUS-In%20progress-yellow">|
-| Twitter | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">|
-| User | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">|
-| Vercel | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">|
+| Name | Status | Type |
+| --- | --- | --- |
+| Airtable | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> | Driver |
+| Drawer | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> | Driver |
+| Github | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> | Driver |
+| Google Calendar | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> | Driver |
+| Google Docs | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen"> | Driver |
+| Hacker News | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
+| Html | <img src="https://img.shields.io/badge/STATUS-In%20progress-yellow">| Program |
+| Http | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
+| Notion | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
+| Slack | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
+| TODO | <img src="https://img.shields.io/badge/STATUS-In%20progress-yellow">| Program |
+| Twitter | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
+| User | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
+| Vercel | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
