@@ -19,7 +19,7 @@ https://img.shields.io/badge/STATUS-Unusable-lightgrey
 | Http | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
 | Notion | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
 | Slack | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
-| TODO | <img src="https://img.shields.io/badge/STATUS-In%20progress-yellow">| Program |
+| To-Do App | <img src="https://img.shields.io/badge/STATUS-In%20progress-yellow">| Program |
 | Twitter | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
 | User | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
 | Vercel | <img src="https://img.shields.io/badge/STATUS-Ready-brightgreen">| Driver |
