@@ -46,3 +46,6 @@
 [submodule "slack-bot"]
 	path = slack-bot
 	url = https://github.com/aranajhonny/slack-bot.git
+[submodule "sms"]
+	path = sms
+	url = https://github.com/juancampa/membrane-sms-program
