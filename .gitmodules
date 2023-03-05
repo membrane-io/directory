@@ -49,7 +49,9 @@
 [submodule "sms"]
 	path = sms
 	url = https://github.com/juancampa/membrane-sms-program
-
 [submodule "discord"]
 	path = discord
 	url = https://github.com/aranajhonny/membrane-driver-discord.git
+[submodule "mailchimp"]
+	path = mailchimp
+	url = https://github.com/aranajhonny/membrane-driver-mailchimp
