@@ -3,7 +3,7 @@
 This repo contains drivers and programs that the Membrane team maintains.
 
 You can explorer and install these programs from Membrane VSCode extension by going to `New` ->
-`From Directory` or follwing this link:
+`From Directory` or follwing this link that will open in VSCode:
 
-[vscode://membrane.membrane/directory/](vscode://membrane.membrane/directory/)
+[https://membrane.membrane/vscode/directory/](https://membrane.membrane/vscode/directory/)
 
