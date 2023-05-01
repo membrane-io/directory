@@ -55,3 +55,6 @@
 [submodule "mailchimp"]
 	path = mailchimp
 	url = https://github.com/aranajhonny/membrane-driver-mailchimp
+[submodule "weather"]
+	path = weather
+	url = https://github.com/aranajhonny/membrane-weather-driver
