@@ -58,3 +58,6 @@
 [submodule "weather"]
 	path = weather
 	url = https://github.com/aranajhonny/membrane-weather-driver
+[submodule "pinecone"]
+	path = pinecone
+	url = https://github.com/aranajhonny/membrane-driver-pinecone
