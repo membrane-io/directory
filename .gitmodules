@@ -34,6 +34,9 @@
 [submodule "todo"]
 	path = todo
 	url = https://github.com/aranajhonny/todo.git
+[submodule "html"]
+	path = html
+	url = https://github.com/aranajhonny/html.git
 [submodule "airtable"]
 	path = airtable
 	url = https://github.com/juancampa/membrane-driver-airtable.git
@@ -49,3 +52,12 @@
 [submodule "discord"]
 	path = discord
 	url = https://github.com/aranajhonny/membrane-driver-discord.git
+[submodule "mailchimp"]
+	path = mailchimp
+	url = https://github.com/aranajhonny/membrane-driver-mailchimp
+[submodule "weather"]
+	path = weather
+	url = https://github.com/aranajhonny/membrane-weather-driver
+[submodule "pinecone"]
+	path = pinecone
+	url = https://github.com/aranajhonny/membrane-driver-pinecone
