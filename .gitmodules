@@ -58,3 +58,6 @@
 [submodule "pinecone"]
 	path = pinecone
 	url = https://github.com/aranajhonny/membrane-driver-pinecone
+[submodule "email"]
+	path = email
+	url = https://github.com/juancampa/membrane-email-program
