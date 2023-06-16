@@ -61,3 +61,6 @@
 [submodule "email"]
 	path = email
 	url = https://github.com/juancampa/membrane-email-program
+[submodule "space-traders"]
+	path = space-traders
+	url = https://github.com/juancampa/membrane-driver-spacetraders.git
