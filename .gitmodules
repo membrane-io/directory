@@ -67,3 +67,6 @@
 [submodule "example-htmx"]
 	path = example-htmx
 	url = https://github.com/juancampa/membrane-example-htmx.git
+[submodule "example-html"]
+	path = example-html
+	url = https://github.com/juancampa/membrane-example-html.git
