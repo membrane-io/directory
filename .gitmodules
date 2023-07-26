@@ -64,3 +64,6 @@
 [submodule "space-traders"]
 	path = space-traders
 	url = https://github.com/juancampa/membrane-driver-spacetraders.git
+[submodule "example-htmx"]
+	path = example-htmx
+	url = https://github.com/juancampa/membrane-example-htmx.git
