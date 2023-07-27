@@ -73,3 +73,24 @@
 [submodule "example-json-api"]
 	path = example-json-api
 	url = https://github.com/juancampa/membrane-example-json-api.git
+[submodule "example-github-action-alert"]
+	path = example-github-action-alert
+	url = https://github.com/membrane-io/example-github-action-alert.git
+[submodule "example-hello-world"]
+	path = example-hello-world
+	url = https://github.com/membrane-io/example-hello-world.git
+[submodule "example-job-application-form"]
+	path = example-job-application-form
+	url = https://github.com/membrane-io/example-job-application-form.git
+[submodule "example-tic-tac-toe"]
+	path = example-tic-tac-toe
+	url = https://github.com/membrane-io/example-tic-tac-toe.git
+[submodule "example-umbrella-alert-with-driver"]
+	path = example-umbrella-alert-with-driver
+	url = https://github.com/membrane-io/example-umbrella-alert-with-driver.git
+[submodule "example-umbrella-alert-with-fetch"]
+	path = example-umbrella-alert-with-fetch
+	url = https://github.com/membrane-io/example-umbrella-alert-with-fetch.git
+[submodule "example-weekly-report"]
+	path = example-weekly-report
+	url = https://github.com/membrane-io/example-weekly-report.git
