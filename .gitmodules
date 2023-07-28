@@ -28,9 +28,6 @@
 [submodule "slack"]
 	path = slack
 	url = https://github.com/juancampa/membrane-driver-slack.git
-[submodule "todo"]
-	path = todo
-	url = https://github.com/aranajhonny/todo.git
 [submodule "html"]
 	path = html
 	url = https://github.com/aranajhonny/html.git
@@ -97,3 +94,6 @@
 [submodule "example-mailchimp-subscriber-alert"]
 	path = example-mailchimp-subscriber-alert
 	url = https://github.com/aranajhonny/membrane-program-mailchimp-subscriptions.git
+[submodule "example-todo"]
+	path = example-todo
+	url = https://github.com/aranajhonny/membrane-program-todo.git
