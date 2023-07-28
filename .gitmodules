@@ -40,9 +40,6 @@
 [submodule "openai"]
 	path = openai
 	url = https://github.com/aranajhonny/membrane-driver-openai.git
-[submodule "slack-bot"]
-	path = slack-bot
-	url = https://github.com/aranajhonny/slack-bot.git
 [submodule "sms"]
 	path = sms
 	url = https://github.com/juancampa/membrane-sms-program
@@ -94,3 +91,9 @@
 [submodule "example-weekly-report"]
 	path = example-weekly-report
 	url = https://github.com/membrane-io/example-weekly-report.git
+[submodule "example-slack-bot"]
+	path = example-slack-bot
+	url = https://github.com/aranajhonny/slack-bot.git
+[submodule "example-mailchimp-subscriber-alert"]
+	path = example-mailchimp-subscriber-alert
+	url = https://github.com/aranajhonny/membrane-program-mailchimp-subscriptions.git
