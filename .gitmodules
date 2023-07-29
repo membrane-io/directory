@@ -97,3 +97,6 @@
 [submodule "example-todo"]
 	path = example-todo
 	url = https://github.com/aranajhonny/membrane-program-todo.git
+[submodule "example-space-traders"]
+	path = example-space-traders
+	url = https://github.com/juancampa/membrane-example-space-traders
