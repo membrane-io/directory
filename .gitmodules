@@ -100,3 +100,6 @@
 [submodule "example-space-traders"]
 	path = example-space-traders
 	url = https://github.com/juancampa/membrane-example-space-traders
+[submodule "example-follow-hn"]
+	path = example-follow-hn
+	url = git@github.com:juancampa/membrane-example-follow-hn.git
