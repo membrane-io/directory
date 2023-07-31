@@ -103,3 +103,15 @@
 [submodule "example-follow-hn"]
 	path = example-follow-hn
 	url = git@github.com:juancampa/membrane-example-follow-hn.git
+[submodule "example-daily-advices"]
+	path = example-daily-advices
+	url = https://github.com/aranajhonny/example-daily-advices.git
+[submodule "example-update-cargo-version"]
+	path = example-update-cargo-version
+	url = https://github.com/aranajhonny/example-update-cargo-version.git
+[submodule "example-github-discord-tracker"]
+	path = example-github-discord-tracker
+	url = https://github.com/aranajhonny/example-github-discord-tracker.git
+[submodule "example-wifi-qr-generator"]
+	path = example-wifi-qr-generator
+	url = https://github.com/aranajhonny/example-wifi-qr-generator.git
