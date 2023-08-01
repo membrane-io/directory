@@ -118,3 +118,9 @@
 [submodule "example-notion-monitor-hn"]
 	path = example-notion-monitor-hn
 	url = https://github.com/aranajhonny/example-notion-monitor-hn.git
+[submodule "example-mailchimp-to-airtable"]
+	path = example-mailchimp-to-airtable
+	url = https://github.com/aranajhonny/example-mailchimp-to-airtable.git
+[submodule "example-mailchimp-subscriptions-sms"]
+	path = example-mailchimp-subscriptions-sms
+	url = https://github.com/aranajhonny/example-mailchimp-subscriptions-sms.git
