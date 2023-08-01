@@ -115,3 +115,6 @@
 [submodule "example-wifi-qr-generator"]
 	path = example-wifi-qr-generator
 	url = https://github.com/aranajhonny/example-wifi-qr-generator.git
+[submodule "example-notion-monitor-hn"]
+	path = example-notion-monitor-hn
+	url = https://github.com/aranajhonny/example-notion-monitor-hn.git
