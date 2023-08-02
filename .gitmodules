@@ -127,3 +127,6 @@
 [submodule "example-calculator"]
 	path = example-calculator
 	url = https://github.com/membrane-io/example-calculator.git
+[submodule "example-membrane-agi-agent"]
+	path = example-membrane-agi-agent
+	url = https://github.com/membrane-io/membrane-agi-2.git
