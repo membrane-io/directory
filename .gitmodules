@@ -124,3 +124,6 @@
 [submodule "example-mailchimp-subscriptions-sms"]
 	path = example-mailchimp-subscriptions-sms
 	url = https://github.com/aranajhonny/example-mailchimp-subscriptions-sms.git
+[submodule "example-calculator"]
+	path = example-calculator
+	url = https://github.com/membrane-io/example-calculator.git
