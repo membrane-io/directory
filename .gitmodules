@@ -130,3 +130,6 @@
 [submodule "example-membrane-agi-agent"]
 	path = example-membrane-agi-agent
 	url = https://github.com/membrane-io/membrane-agi-2.git
+[submodule "example-github-slack-tracker"]
+	path = example-github-slack-tracker
+	url = https://github.com/aranajhonny/example-github-slack-tracker.git
