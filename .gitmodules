@@ -133,3 +133,6 @@
 [submodule "example-github-slack-tracker"]
 	path = example-github-slack-tracker
 	url = https://github.com/aranajhonny/example-github-slack-tracker.git
+[submodule "example-openai-completion"]
+	path = example-openai-completion
+	url = https://github.com/aranajhonny/example-openai-completion.git
