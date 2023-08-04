@@ -136,3 +136,6 @@
 [submodule "example-openai-completion"]
 	path = example-openai-completion
 	url = https://github.com/aranajhonny/example-openai-completion.git
+[submodule "example-weather-bot-discord"]
+	path = example-weather-bot-discord
+	url = https://github.com/aranajhonny/example-weather-bot-discord.git
