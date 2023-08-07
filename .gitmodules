@@ -139,6 +139,6 @@
 [submodule "example-weather-bot-discord"]
 	path = example-weather-bot-discord
 	url = https://github.com/aranajhonny/example-weather-bot-discord.git
-[submodule "example-traker-jobs-google-docs"]
-	path = example-traker-jobs-google-docs
-	url = https://github.com/aranajhonny/example-traker-jobs-google-docs.git
+[submodule "example-hn-jobs-to-google-docs"]
+	path = example-hn-jobs-to-google-docs
+	url = https://github.com/aranajhonny/example-hn-jobs-to-google-docs.git
