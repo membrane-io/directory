@@ -145,3 +145,6 @@
 [submodule "membrane-driver-google-sheets"]
 	path = membrane-driver-google-sheets
 	url = https://github.com/aranajhonny/membrane-driver-google-sheets.git
+[submodule "membrane-program-rss"]
+	path = membrane-program-rss
+	url = https://github.com/aranajhonny/membrane-program-rss.git
