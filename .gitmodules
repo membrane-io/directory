@@ -151,3 +151,6 @@
 [submodule "example-google-sheets-hn-jobs"]
 	path = example-google-sheets-hn-jobs
 	url = https://github.com/aranajhonny/example-google-sheets-hn-jobs.git
+[submodule "example-rss-hn-jobs"]
+	path = example-rss-hn-jobs
+	url = https://github.com/aranajhonny/example-rss-hn-jobs.git
