@@ -154,3 +154,6 @@
 [submodule "example-rss-hn-jobs"]
 	path = example-rss-hn-jobs
 	url = https://github.com/aranajhonny/example-rss-hn-jobs.git
+[submodule "example-twitter-bot-ai"]
+	path = example-twitter-bot-ai
+	url = https://github.com/aranajhonny/example-twitter-bot-ai.git
