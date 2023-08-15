@@ -142,3 +142,6 @@
 [submodule "example-hn-jobs-to-google-docs"]
 	path = example-hn-jobs-to-google-docs
 	url = https://github.com/aranajhonny/example-hn-jobs-to-google-docs.git
+[submodule "membrane-driver-google-sheets"]
+	path = membrane-driver-google-sheets
+	url = https://github.com/aranajhonny/membrane-driver-google-sheets.git
