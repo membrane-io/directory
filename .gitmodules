@@ -148,3 +148,6 @@
 [submodule "membrane-program-rss"]
 	path = membrane-program-rss
 	url = https://github.com/aranajhonny/membrane-program-rss.git
+[submodule "example-google-sheets-hn-jobs"]
+	path = example-google-sheets-hn-jobs
+	url = https://github.com/aranajhonny/example-google-sheets-hn-jobs.git
