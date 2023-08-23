@@ -160,3 +160,6 @@
 [submodule "meta-driver"]
 	path = meta-driver
 	url = https://github.com/membrane-io/membrane-meta-driver.git
+[submodule "example-airtable-to-email"]
+	path = example-airtable-to-email
+	url = https://github.com/aranajhonny/example-airtable-to-email.git
