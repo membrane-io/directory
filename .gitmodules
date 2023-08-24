@@ -166,3 +166,6 @@
 [submodule "example-event-reminder"]
 	path = example-event-reminder
 	url = https://github.com/aranajhonny/example-event-reminder.git
+[submodule "example-react-ssr"]
+	path = example-react-ssr
+	url = https://github.com/aranajhonny/example-react-ssr
