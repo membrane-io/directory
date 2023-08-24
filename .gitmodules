@@ -163,3 +163,6 @@
 [submodule "example-airtable-to-email"]
 	path = example-airtable-to-email
 	url = https://github.com/aranajhonny/example-airtable-to-email.git
+[submodule "example-event-reminder"]
+	path = example-event-reminder
+	url = https://github.com/aranajhonny/example-event-reminder.git
