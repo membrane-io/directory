@@ -102,7 +102,7 @@
 	url = https://github.com/juancampa/membrane-example-space-traders
 [submodule "example-follow-hn"]
 	path = example-follow-hn
-	url = git@github.com:juancampa/membrane-example-follow-hn.git
+	url = https://github.com/juancampa/membrane-example-follow-hn.git
 [submodule "example-daily-advices"]
 	path = example-daily-advices
 	url = https://github.com/aranajhonny/example-daily-advices.git
