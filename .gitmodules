@@ -30,28 +30,28 @@
 	url = https://github.com/juancampa/membrane-driver-slack.git
 [submodule "html"]
 	path = html
-	url = https://github.com/aranajhonny/html.git
+	url = https://github.com/membrane-io/html.git
 [submodule "airtable"]
 	path = airtable
 	url = https://github.com/juancampa/membrane-driver-airtable.git
 [submodule "openai"]
 	path = openai
-	url = https://github.com/aranajhonny/membrane-driver-openai.git
+	url = https://github.com/membrane-io/membrane-driver-openai.git
 [submodule "sms"]
 	path = sms
 	url = https://github.com/juancampa/membrane-sms-program
 [submodule "discord"]
 	path = discord
-	url = https://github.com/aranajhonny/membrane-driver-discord.git
+	url = https://github.com/membrane-io/membrane-driver-discord.git
 [submodule "mailchimp"]
 	path = mailchimp
-	url = https://github.com/aranajhonny/membrane-driver-mailchimp
+	url = https://github.com/membrane-io/membrane-driver-mailchimp
 [submodule "weather"]
 	path = weather
-	url = https://github.com/aranajhonny/membrane-weather-driver
+	url = https://github.com/membrane-io/membrane-weather-driver
 [submodule "pinecone"]
 	path = pinecone
-	url = https://github.com/aranajhonny/membrane-driver-pinecone
+	url = https://github.com/membrane-io/membrane-driver-pinecone
 [submodule "email"]
 	path = email
 	url = https://github.com/juancampa/membrane-email-program
@@ -90,13 +90,13 @@
 	url = https://github.com/membrane-io/example-weekly-report.git
 [submodule "example-slack-bot"]
 	path = example-slack-bot
-	url = https://github.com/aranajhonny/slack-bot.git
+	url = https://github.com/membrane-io/slack-bot.git
 [submodule "example-mailchimp-subscriber-alert"]
 	path = example-mailchimp-subscriber-alert
-	url = https://github.com/aranajhonny/membrane-program-mailchimp-subscriptions.git
+	url = https://github.com/membrane-io/membrane-program-mailchimp-subscriptions.git
 [submodule "example-todo"]
 	path = example-todo
-	url = https://github.com/aranajhonny/membrane-program-todo.git
+	url = https://github.com/membrane-io/membrane-program-todo.git
 [submodule "example-space-traders"]
 	path = example-space-traders
 	url = https://github.com/juancampa/membrane-example-space-traders
@@ -105,25 +105,25 @@
 	url = https://github.com/juancampa/membrane-example-follow-hn.git
 [submodule "example-daily-advices"]
 	path = example-daily-advices
-	url = https://github.com/aranajhonny/example-daily-advices.git
+	url = https://github.com/membrane-io/example-daily-advices.git
 [submodule "example-update-cargo-version"]
 	path = example-update-cargo-version
-	url = https://github.com/aranajhonny/example-update-cargo-version.git
+	url = https://github.com/membrane-io/example-update-cargo-version.git
 [submodule "example-github-discord-tracker"]
 	path = example-github-discord-tracker
-	url = https://github.com/aranajhonny/example-github-discord-tracker.git
+	url = https://github.com/membrane-io/example-github-discord-tracker.git
 [submodule "example-wifi-qr-generator"]
 	path = example-wifi-qr-generator
-	url = https://github.com/aranajhonny/example-wifi-qr-generator.git
+	url = https://github.com/membrane-io/example-wifi-qr-generator.git
 [submodule "example-notion-monitor-hn"]
 	path = example-notion-monitor-hn
-	url = https://github.com/aranajhonny/example-notion-monitor-hn.git
+	url = https://github.com/membrane-io/example-notion-monitor-hn.git
 [submodule "example-mailchimp-to-airtable"]
 	path = example-mailchimp-to-airtable
-	url = https://github.com/aranajhonny/example-mailchimp-to-airtable.git
+	url = https://github.com/membrane-io/example-mailchimp-to-airtable.git
 [submodule "example-mailchimp-subscriptions-sms"]
 	path = example-mailchimp-subscriptions-sms
-	url = https://github.com/aranajhonny/example-mailchimp-subscriptions-sms.git
+	url = https://github.com/membrane-io/example-mailchimp-subscriptions-sms.git
 [submodule "example-calculator"]
 	path = example-calculator
 	url = https://github.com/membrane-io/example-calculator.git
@@ -132,40 +132,40 @@
 	url = https://github.com/membrane-io/membrane-agi-2.git
 [submodule "example-github-slack-tracker"]
 	path = example-github-slack-tracker
-	url = https://github.com/aranajhonny/example-github-slack-tracker.git
+	url = https://github.com/membrane-io/example-github-slack-tracker.git
 [submodule "example-openai-completion"]
 	path = example-openai-completion
-	url = https://github.com/aranajhonny/example-openai-completion.git
+	url = https://github.com/membrane-io/example-openai-completion.git
 [submodule "example-weather-bot-discord"]
 	path = example-weather-bot-discord
-	url = https://github.com/aranajhonny/example-weather-bot-discord.git
+	url = https://github.com/membrane-io/example-weather-bot-discord.git
 [submodule "example-hn-jobs-to-google-docs"]
 	path = example-hn-jobs-to-google-docs
-	url = https://github.com/aranajhonny/example-hn-jobs-to-google-docs.git
+	url = https://github.com/membrane-io/example-hn-jobs-to-google-docs.git
 [submodule "google-sheets"]
 	path = google-sheets
-	url = https://github.com/aranajhonny/membrane-driver-google-sheets.git
+	url = https://github.com/membrane-io/membrane-driver-google-sheets.git
 [submodule "rss"]
 	path = rss
-	url = https://github.com/aranajhonny/membrane-program-rss.git
+	url = https://github.com/membrane-io/membrane-program-rss.git
 [submodule "example-google-sheets-hn-jobs"]
 	path = example-google-sheets-hn-jobs
-	url = https://github.com/aranajhonny/example-google-sheets-hn-jobs.git
+	url = https://github.com/membrane-io/example-google-sheets-hn-jobs.git
 [submodule "example-rss-hn-jobs"]
 	path = example-rss-hn-jobs
-	url = https://github.com/aranajhonny/example-rss-hn-jobs.git
+	url = https://github.com/membrane-io/example-rss-hn-jobs.git
 [submodule "example-twitter-bot-ai"]
 	path = example-twitter-bot-ai
-	url = https://github.com/aranajhonny/example-twitter-bot-ai.git
+	url = https://github.com/membrane-io/example-twitter-bot-ai.git
 [submodule "meta-driver"]
 	path = meta-driver
 	url = https://github.com/membrane-io/membrane-meta-driver.git
 [submodule "example-airtable-to-email"]
 	path = example-airtable-to-email
-	url = https://github.com/aranajhonny/example-airtable-to-email.git
+	url = https://github.com/membrane-io/example-airtable-to-email.git
 [submodule "example-event-reminder"]
 	path = example-event-reminder
-	url = https://github.com/aranajhonny/example-event-reminder.git
+	url = https://github.com/membrane-io/example-event-reminder.git
 [submodule "example-react-ssr"]
 	path = example-react-ssr
-	url = https://github.com/aranajhonny/example-react-ssr
+	url = https://github.com/membrane-io/example-react-ssr
