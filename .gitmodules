@@ -1,45 +1,45 @@
 [submodule "github"]
 	path = github
-	url = https://github.com/juancampa/membrane-driver-github.git
+	url = https://github.com/membrane-io/membrane-driver-github.git
 [submodule "hn"]
 	path = hn
-	url = https://github.com/juancampa/membrane-driver-hn.git
+	url = https://github.com/membrane-io/membrane-driver-hn.git
 [submodule "google-docs"]
 	path = google-docs
-	url = https://github.com/juancampa/membrane-driver-google-docs.git
+	url = https://github.com/membrane-io/membrane-driver-google-docs.git
 [submodule "google-calendar"]
 	path = google-calendar
-	url = https://github.com/juancampa/membrane-driver-google-calendar.git
+	url = https://github.com/membrane-io/membrane-driver-google-calendar.git
 [submodule "notion"]
 	path = notion
-	url = https://github.com/juancampa/membrane-driver-notion.git
+	url = https://github.com/membrane-io/membrane-driver-notion.git
 [submodule "vercel"]
 	path = vercel
-	url = https://github.com/juancampa/membrane-driver-vercel.git
+	url = https://github.com/membrane-io/membrane-driver-vercel.git
 [submodule "twitter"]
 	path = twitter
-	url = https://github.com/juancampa/membrane-driver-twitter.git
+	url = https://github.com/membrane-io/membrane-driver-twitter.git
 [submodule "http"]
 	path = http
-	url = https://github.com/juancampa/membrane-http-program.git
+	url = https://github.com/membrane-io/membrane-http
 [submodule "drawer"]
 	path = drawer
-	url = https://github.com/juancampa/membrane-drawer-program.git
+	url = https://github.com/membrane-io/membrane-drawer-program.git
 [submodule "slack"]
 	path = slack
-	url = https://github.com/juancampa/membrane-driver-slack.git
+	url = https://github.com/membrane-io/membrane-driver-slack.git
 [submodule "html"]
 	path = html
 	url = https://github.com/membrane-io/html.git
 [submodule "airtable"]
 	path = airtable
-	url = https://github.com/juancampa/membrane-driver-airtable.git
+	url = https://github.com/membrane-io/membrane-driver-airtable.git
 [submodule "openai"]
 	path = openai
 	url = https://github.com/membrane-io/membrane-driver-openai.git
 [submodule "sms"]
 	path = sms
-	url = https://github.com/juancampa/membrane-sms-program
+	url = https://github.com/membrane-io/membrane-sms
 [submodule "discord"]
 	path = discord
 	url = https://github.com/membrane-io/membrane-driver-discord.git
@@ -54,19 +54,19 @@
 	url = https://github.com/membrane-io/membrane-driver-pinecone
 [submodule "email"]
 	path = email
-	url = https://github.com/juancampa/membrane-email-program
+	url = https://github.com/membrane-io/membrane-email
 [submodule "space-traders"]
 	path = space-traders
-	url = https://github.com/juancampa/membrane-driver-spacetraders.git
+	url = https://github.com/membrane-io/membrane-driver-spacetraders.git
 [submodule "example-htmx"]
 	path = example-htmx
-	url = https://github.com/juancampa/membrane-example-htmx.git
+	url = https://github.com/membrane-io/membrane-example-htmx.git
 [submodule "example-html"]
 	path = example-html
-	url = https://github.com/juancampa/membrane-example-html.git
+	url = https://github.com/membrane-io/membrane-example-html.git
 [submodule "example-json-api"]
 	path = example-json-api
-	url = https://github.com/juancampa/membrane-example-json-api.git
+	url = https://github.com/membrane-io/membrane-example-json-api.git
 [submodule "example-github-action-alert"]
 	path = example-github-action-alert
 	url = https://github.com/membrane-io/example-github-action-alert.git
@@ -99,10 +99,10 @@
 	url = https://github.com/membrane-io/membrane-program-todo.git
 [submodule "example-space-traders"]
 	path = example-space-traders
-	url = https://github.com/juancampa/membrane-example-space-traders
+	url = https://github.com/membrane-io/membrane-example-space-traders
 [submodule "example-follow-hn"]
 	path = example-follow-hn
-	url = https://github.com/juancampa/membrane-example-follow-hn.git
+	url = https://github.com/membrane-io/membrane-example-follow-hn.git
 [submodule "example-daily-advices"]
 	path = example-daily-advices
 	url = https://github.com/membrane-io/example-daily-advices.git
