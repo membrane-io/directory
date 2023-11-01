@@ -169,3 +169,6 @@
 [submodule "example-react-ssr"]
 	path = example-react-ssr
 	url = https://github.com/membrane-io/example-react-ssr
+[submodule "typechat"]
+	path = typechat
+	url = https://github.com/membrane-io/membrane-driver-typechat.git
