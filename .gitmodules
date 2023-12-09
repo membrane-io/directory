@@ -172,3 +172,6 @@
 [submodule "typechat"]
 	path = typechat
 	url = https://github.com/membrane-io/membrane-driver-typechat.git
+[submodule "anthropic"]
+	path = anthropic
+	url = https://github.com/membrane-io/membrane-driver-anthropic.git
