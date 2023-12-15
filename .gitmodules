@@ -175,3 +175,9 @@
 [submodule "anthropic"]
 	path = anthropic
 	url = https://github.com/membrane-io/membrane-driver-anthropic.git
+[submodule "pagerduty"]
+	path = pagerduty
+	url = https://github.com/membrane-io/membrane-driver-pagerduty
+[submodule "mistral"]
+	path = mistral
+	url = https://github.com/membrane-io/membrane-driver-mistral
