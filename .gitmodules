@@ -181,3 +181,6 @@
 [submodule "mistral"]
 	path = mistral
 	url = https://github.com/membrane-io/membrane-driver-mistral
+[submodule "forms"]
+	path = forms
+	url = https://github.com/juancampa/membrane-program-forms
