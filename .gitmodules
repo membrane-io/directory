@@ -184,3 +184,6 @@
 [submodule "forms"]
 	path = forms
 	url = https://github.com/juancampa/membrane-program-forms
+[submodule "resend"]
+	path = resend
+	url = https://github.com/membrane-io/membrane-driver-resend
