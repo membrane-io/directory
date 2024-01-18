@@ -187,6 +187,3 @@
 [submodule "resend"]
 	path = resend
 	url = https://github.com/membrane-io/membrane-driver-resend
-[submodule "user"]
-	path = user
-	url = https://github.com/membrane-io/user
