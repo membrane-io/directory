@@ -190,3 +190,6 @@
 [submodule "user"]
 	path = user
 	url = https://github.com/membrane-io/user
+[submodule "height"]
+	path = height
+	url = https://github.com/membrane-io/membrane-driver-height
