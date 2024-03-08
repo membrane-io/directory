@@ -192,4 +192,4 @@
 	url = https://github.com/membrane-io/user
 [submodule "height"]
 	path = height
-	url = git@github.com:membrane-io/membrane-driver-height.git
+	url = https://github.com/membrane-io/membrane-driver-height
