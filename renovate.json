@@ -7,7 +7,6 @@
   "packageRules": [
     {
       "matchPackagePrefixes": ["https://github.com/membrane-io"],
-      "groupName": "Membrane hosted packages",
       "automerge": true
     }
   ]
