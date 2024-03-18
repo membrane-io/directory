@@ -3,5 +3,12 @@
   "extends": ["config:recommended"],
   "git-submodules": {
     "enabled": true
-  }
+  },
+  "packageRules": [
+    {
+      "matchSourceUrlPrefixes": ["https://github.com/membrane-io/"],
+      "groupName": "Membrane hosted packages",
+      "automerge": true
+    }
+  ]
 }
