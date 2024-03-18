@@ -6,7 +6,7 @@
   },
   "packageRules": [
     {
-      "matchSourceUrlPrefixes": ["https://github.com/membrane-io/"],
+      "matchPackagePrefixes": ["https://github.com/membrane-io"],
       "groupName": "Membrane hosted packages",
       "automerge": true
     }
