@@ -193,3 +193,6 @@
 [submodule "height"]
 	path = height
 	url = https://github.com/membrane-io/membrane-driver-height
+[submodule "getting-started"]
+	path = getting-started
+	url = https://github.com/membrane-io/membrane-getting-started.git
