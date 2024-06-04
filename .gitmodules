@@ -196,3 +196,6 @@
 [submodule "getting-started"]
 	path = getting-started
 	url = https://github.com/membrane-io/membrane-getting-started.git
+[submodule "oura"]
+	path = oura
+	url = https://github.com/membrane-io/membrane-driver-oura.git
